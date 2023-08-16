@@ -22,4 +22,5 @@ class Players{
 
 const Sakib  = new Players('sakib', "1987-03-04", 200000,6) 
 console.log(Sakib.calculate_age());
-// console.log(Sakib.birthDay);
+console.log(Sakib.birthDay);
+
